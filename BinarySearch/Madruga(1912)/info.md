@@ -23,16 +23,10 @@ Exiba “:D”, caso nenhum corte seja necessário, ou “-.-“ caso seja impos
 
 Exemplo de Entrada:
 5 3
-
 5 3 6 2 3
-
 4 14
-
 2 5 2 5
-
 0 0
-
 Exemplo de Saída:
 4.0000
-
 :D
